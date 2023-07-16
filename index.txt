@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Miltos Galanis
+Miltos Galanis
+
 
 Show Contacts
 
 Email
-richard@example.com
+mgalanis.math@gmail.com
 
 Phone
-+1 (213) 352-2795
++30 (697) 706-9897
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Athens, Attica, GR
 
 # navbar
 
